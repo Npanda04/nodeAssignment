@@ -1,5 +1,5 @@
 Clone the repository:
-git clone https://github.com/your-username/cms.git
+git clone https://github.com/Npanda04/nodeAssignment
 
 Navigate to the project directory:
 cd backend
